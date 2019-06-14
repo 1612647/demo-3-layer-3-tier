@@ -1,0 +1,5 @@
+E:\wf\QLTV\1612647\Source\Libraries\Entities\bin\Debug\Entities.dll
+E:\wf\QLTV\1612647\Source\Libraries\Entities\bin\Debug\Entities.pdb
+E:\wf\QLTV\1612647\Source\Libraries\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+E:\wf\QLTV\1612647\Source\Libraries\Entities\obj\Debug\Entities.dll
+E:\wf\QLTV\1612647\Source\Libraries\Entities\obj\Debug\Entities.pdb

@@ -1,0 +1,9 @@
+E:\wf\QLTV\1612647\Source\Libraries\DataAccess\bin\Debug\DataAccess.dll
+E:\wf\QLTV\1612647\Source\Libraries\DataAccess\bin\Debug\DataAccess.pdb
+E:\wf\QLTV\1612647\Source\Libraries\DataAccess\bin\Debug\Entities.dll
+E:\wf\QLTV\1612647\Source\Libraries\DataAccess\bin\Debug\Entities.pdb
+E:\wf\QLTV\1612647\Source\Libraries\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+E:\wf\QLTV\1612647\Source\Libraries\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\wf\QLTV\1612647\Source\Libraries\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\wf\QLTV\1612647\Source\Libraries\DataAccess\obj\Debug\DataAccess.dll
+E:\wf\QLTV\1612647\Source\Libraries\DataAccess\obj\Debug\DataAccess.pdb

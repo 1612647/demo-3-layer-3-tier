@@ -1,0 +1,11 @@
+E:\wf\QLTV\1612647\Source\Libraries\BussinessLogic\bin\Debug\BussinessLogic.dll
+E:\wf\QLTV\1612647\Source\Libraries\BussinessLogic\bin\Debug\BussinessLogic.pdb
+E:\wf\QLTV\1612647\Source\Libraries\BussinessLogic\bin\Debug\DataAccess.dll
+E:\wf\QLTV\1612647\Source\Libraries\BussinessLogic\bin\Debug\Entities.dll
+E:\wf\QLTV\1612647\Source\Libraries\BussinessLogic\bin\Debug\DataAccess.pdb
+E:\wf\QLTV\1612647\Source\Libraries\BussinessLogic\bin\Debug\Entities.pdb
+E:\wf\QLTV\1612647\Source\Libraries\BussinessLogic\obj\Debug\BussinessLogic.csprojAssemblyReference.cache
+E:\wf\QLTV\1612647\Source\Libraries\BussinessLogic\obj\Debug\BussinessLogic.csproj.CoreCompileInputs.cache
+E:\wf\QLTV\1612647\Source\Libraries\BussinessLogic\obj\Debug\BussinessLogic.csproj.CopyComplete
+E:\wf\QLTV\1612647\Source\Libraries\BussinessLogic\obj\Debug\BussinessLogic.dll
+E:\wf\QLTV\1612647\Source\Libraries\BussinessLogic\obj\Debug\BussinessLogic.pdb
